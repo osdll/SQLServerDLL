@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL Server DLL", "SQL Server DLL\SQL Server DLL.csproj", "{194B4005-1760-4060-89C5-6ED7A8976FC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL Server DLL", "SQLServerDLL\SQL Server DLL.csproj", "{194B4005-1760-4060-89C5-6ED7A8976FC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
