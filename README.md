@@ -1,3 +1,5 @@
+官方地址：http://www.osdll.com
+
 轻量级SQLSERVER操作库
 
 Lightweight sqlserver operation Library
